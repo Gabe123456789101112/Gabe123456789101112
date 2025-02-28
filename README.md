@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabe
 - 👀 I’m interested in scripting, video games, ethical hacking, whitehat, cybersecurity
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on SolarCheats
+- 💞️ I’m looking for collaborators on Project SolarCheats
 - 📫 How to reach me support@solarcheats.org
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I didn't know how to code before I got into WhiteHat or ethical hacking, I would use devices pre-loaded with scripts and simple GUI
